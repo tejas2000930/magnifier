@@ -1,0 +1,13 @@
+body{
+    margin: 100;
+    padding: 100;
+    background-color:black;
+}
+
+#exzoom{
+    position: absolute;
+    top: 50%;
+    left: 29%;
+    transform: translate(-50%,-50%);
+    width: 650px;
+}
